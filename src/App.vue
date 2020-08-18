@@ -27,11 +27,12 @@
 </template>
 
 <script>
+
 export default {
   name: "App",
   data() {
     return {
-      api_key: "6c796755f05039ee8ec526c8c0fa38c2",
+      api_key: process.env.api_key,
       url_base: "http://api.openweathermap.org/data/2.5/",
       query: "",
       weather: {},
