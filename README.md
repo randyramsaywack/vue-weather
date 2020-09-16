@@ -2,8 +2,15 @@
 
 This was created simply to get comfortable with Vue.js.
 
-The live demo can be found here: 
+The live demo can be found here:
 https://vue-weather-32a26.web.app/
+
+<div >
+  <img src="https://raw.githubusercontent.com/randyramsaywack/vue-weather/master/demo/example-1.png" height="250"/>
+  <img src="https://raw.githubusercontent.com/randyramsaywack/vue-weather/master/demo/example-2.png" height="250"/>
+</div>
+
+<br/>
 
 I followed [Tyler Potss'](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg) tutorial on YouTube found [here](https://www.youtube.com/watch?v=JLc-hWsPTUY&).
 
