@@ -27,12 +27,11 @@
 </template>
 
 <script>
-
 export default {
   name: "App",
   data() {
     return {
-      api_key: process.env.api_key,
+      api_key: "2225fc0481c0b0abadc88fcd687159cd",
       url_base: "http://api.openweathermap.org/data/2.5/",
       query: "",
       weather: {},
@@ -109,7 +108,7 @@ body {
 }
 
 #app.warm {
-  background-image: url('./assets/warm-bg.jpg');
+  background-image: url("./assets/warm-bg.jpg");
 }
 
 main {
